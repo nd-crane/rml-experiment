@@ -9,7 +9,7 @@
 <#TriplesMap1>
   a rr:TriplesMap;
   rml:logicalSource [
-    rml:source "people.csv";
+    rml:source "/Users/cvardema/dev/git/nd-crane/rml-experiment/people.csv";
     rml:referenceFormulation ql:CSV
   ];
 
