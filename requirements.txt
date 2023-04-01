@@ -1,0 +1,4 @@
+kglab==0.6.6
+pandas==1.5.3
+rdflib==6.3.2
+jupyter==1.0.0

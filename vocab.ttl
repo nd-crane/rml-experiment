@@ -11,7 +11,7 @@ ex:name a rdf:Property ;
   rdfs:domain ex:Person ;
   rdfs:range rdfs:Literal .
 
-ex:age a rdf:Property ;
+ex:age a rdf:Property ;   
   rdfs:label "age" ;
   rdfs:domain ex:Person ;
   rdfs:range xsd:integer .

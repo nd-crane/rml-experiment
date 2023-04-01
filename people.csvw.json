@@ -1,0 +1,28 @@
+{
+    "@context": "http://www.w3.org/ns/csvw",
+    "tables": [
+      {
+        "url": "people.csv",
+        "tableSchema": {
+          "columns": [
+            {
+              "name": "id",
+              "datatype": "integer"
+            },
+            {
+              "name": "name",
+              "datatype": "string"
+            },
+            {
+              "name": "age",
+              "datatype": "integer"
+            },
+            {
+              "name": "city",
+              "datatype": "string"
+            }
+          ]
+        }
+      }
+    ]
+}
